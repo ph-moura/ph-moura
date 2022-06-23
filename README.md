@@ -1,4 +1,3 @@
-### Hi there 👋
 <a href="https://github.com/ph-moura">
 <div align="center">
   <a href="https://github.com/ph-moura">
