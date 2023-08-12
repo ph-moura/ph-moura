@@ -1,11 +1,20 @@
+<div>
+  <p><a href="https://github.com/ph-moura">Paulo Henrique de Moura</a></p>
+  <p>📊 GitHub Stats:</p>
+</div>
+<div>
+  <img height="200px" width="45%" src="https://github-readme-stats.vercel.app/api?username=ph-moura&theme=dark&hide_border=true&include_all_commits=true&count_private=false"/>
+  <img height="200px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-moura&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+</div>
+
+<!--
+<img height="280em" width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=ph-moura&theme=dark&hide_border=true"/>
+
 # 📊 GitHub Stats:
 | ![](https://github-readme-stats.vercel.app/api?username=ph-moura&theme=dark&hide_border=true&include_all_commits=true&count_private=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ph-moura&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ph-moura&theme=dark&hide_border=true) |
 | --- | --- | --- |
 
 
-
-
-<!--
 <div>
   <a href="https://github.com/ph-moura">
 <div align="center">
